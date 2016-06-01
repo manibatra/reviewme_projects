@@ -4,8 +4,8 @@
 - The content of the quote and image are customised and are not identical to the mockup.
 - The name of the person to whome the quote attributed links to the Wikepedia page for the same person and is aligned to the right.
 - The style sheet is linked correctly.
-- There are no **style** attributes or **<style>** tags in the HTML.
-- Using **classes** is the preffered method of applying *styles*rather than using **id**, element names directly or styling tags like **<strong>**, **em**, etc.
+- There are no **style** attributes or tags in the HTML.
+- Using **classes** is the preffered method of applying *styles*rather than using **id**, element names directly or styling tags like **strong**, **em**, etc.
 - There is a border on the left and right side of the container.
 - The image's **width** is **300px** or less
 - The code passes both HTML and CSS validators.
