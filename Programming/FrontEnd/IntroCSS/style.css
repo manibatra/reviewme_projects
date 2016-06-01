@@ -1,8 +1,8 @@
 .container {
 	box-shadow: 10px 10px 5px #888888;
 	margin: 50px auto;
-	width: 500px;
-	padding: 50px;
+	width: 600px;
+	padding: 20px;
 	border-left: 15px solid orange;
 	border-right: 5px solid orange;
 	background-color: white;
@@ -13,6 +13,7 @@
 	/*Font*/
   	font-family: Georgia, serif;
   	text-align: justify;
+  	line-height: 1.2;
 }
 
 body {
@@ -27,10 +28,10 @@ body {
 	font-weight: bold;
 	color: #999;
 
-	/*Positioning*/
 	position: absolute;
-	top: 80px;
-	left: 540px;
+	top: 60px;
+	left: 480px;
+
 }
 
 .image {
