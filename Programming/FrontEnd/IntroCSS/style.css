@@ -10,6 +10,7 @@ body {
 	border-left: 15px solid orange;
 	border-right: 5px solid orange;
 	background-color: white;
+	position: relative;
 }
 
 .text {
@@ -29,8 +30,8 @@ body {
 
 	/*Positioning*/
 	position: absolute;
-	top: 60px;
-	left: 480px;
+	top: 20px;
+	left: 20px;
 
 }
 
