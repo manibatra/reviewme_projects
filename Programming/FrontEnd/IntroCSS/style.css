@@ -1,0 +1,38 @@
+body {
+	background-color: #f0f0f5;
+}
+
+.container {
+	box-shadow: 10px 10px 5px #888888;
+	margin: 50px auto;
+	width: 600px;
+	padding: 20px;
+	border-left: 15px solid orange;
+	border-right: 5px solid orange;
+	background-color: white;
+	position: relative;
+}
+
+.text {
+	/*Font*/
+	font-family: Georgia, serif;
+	text-align: justify;
+	line-height: 1.2;
+}
+
+
+.image {
+	margin: 10px auto;
+	display: block;
+}
+
+.name {
+	/*Font*/
+	font-family: Georgia, serif;
+	text-align: right;
+	font-style: italic;
+}
+
+.link:hover {
+	color: red;
+}
