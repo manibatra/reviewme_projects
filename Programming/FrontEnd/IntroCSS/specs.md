@@ -2,7 +2,7 @@
 - The container should have **fixed width** that should not change with the screen size.
 - The HTML contains at least one **blockquote**, **img**, **a** and **p** tag.
 - The content of the quote and image are customised and are not identical to the mockup.
-- The name of the person to whome the quote attributed links to the Wikepedia page for the same person and is aligned to the right.
+- The name of the person (who said the quote) should link to a Wikipedia page about them, and is aligned to the right. 
 - The name of the person should change color when you hover over it.
 - The style sheet is linked correctly.
 - There are no **style** attributes or tags in the HTML.
