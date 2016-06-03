@@ -3,6 +3,7 @@
 - The HTML contains at least one **blockquote**, **img**, **a** and **p** tag.
 - The content of the quote and image are customised and are not identical to the mockup.
 - The name of the person to whome the quote attributed links to the Wikepedia page for the same person and is aligned to the right.
+- The name of the person should change color when you hover over it.
 - The style sheet is linked correctly.
 - There are no **style** attributes or tags in the HTML.
 - Using **classes** is the preffered method of applying *styles*rather than using **id**, element names directly or styling tags like **strong**, **em**, etc.
