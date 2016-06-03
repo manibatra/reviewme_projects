@@ -6,7 +6,7 @@
 - The style sheet is linked correctly.
 - There are no **style** attributes or tags in the HTML.
 - Using **classes** is the preffered method of applying *styles*rather than using **id**, element names directly or styling tags like **strong**, **em**, etc.
-- There is a border on the left and right side of the container.
+- There is a border on the left and right side of the container div.
 - The image's **width** is **300px** or less
 - The code passes both HTML and CSS validators.
 - The code is formatted properly and is easily readable.
