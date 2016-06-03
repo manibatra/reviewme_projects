@@ -1,9 +1,6 @@
 - [Intro to HTML and CSS ](https://www.udacity.com/courses/intro-to-html-and-css--ud304) : first unit - **HTML, CSS and Boxes** is enough
 - [How CSS works](https://developer.mozilla.org/en-US/Learn/CSS/Introduction_to_CSS/How_CSS_works)
 - [CSS syntax](https://developer.mozilla.org/en-US/Learn/CSS/Introduction_to_CSS/Syntax)
-- [Double Quote Character](http://unicode-table.com/en/201C/)
-- [::before property](https://developer.mozilla.org/en-US/docs/Web/CSS/::before)
 - [content property](https://developer.mozilla.org/en-US/docs/Web/CSS/content)
-- [position property](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [HTML MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element)
 - [CSS MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
