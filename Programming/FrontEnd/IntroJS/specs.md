@@ -1,0 +1,16 @@
+- The script file "app.js" is added to the HTML file.
+- The starter files are downloaded.
+- There is json object containing the name and social URLS in the app.js file.
+- js/jQuery is used to replace the name in the HTML file.
+- Two social contacts HTML in addition to the one provided is created.
+- The three social contacts are formatted using the information in the JSON object
+- The HTML for the 3 social contacts is added to the contactArray.
+- The array is iterated using a loop and the contacts added to the footer.
+- Modal should open when the edit button is clicked.
+- The note text should be retrieved from the textarea.
+- The note text should be added to noteHTML by replacing %note-text%.
+- The note text should not be added if it is an empty string or just spaces.
+- Clicking on the "rubbish bin" icon should remove the note.
+- No errors are reported in the JSLint tool.
+- The HTML, CSS and JS files are submitted.
+ 
