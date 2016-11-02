@@ -1,0 +1,8 @@
+-HTML <script> src Attribute : Linking your JS file into HTML.
+-JavaScript Basics : Learn the JavaScript programming fundamentals.
+-Intro to JQuery : This course will teach you how to use jQueryâs core features - DOM element selections, traversal and manipulation.
+-jQuery API : The official jQuery documentation.
+-JSON Tutorial : JSON is a syntax for storing and exchanging data.
+-Codecademy: JavaScript : This course will teach what the most fundamental programming concepts are and how to use them.
+-JS LINT : A javaScript program that looks for problems in JavaScript programs. It is a code quality tool.
+-JS LINT : A javaScript program that looks for problems in JavaScript programs. It is a code quality tool.
